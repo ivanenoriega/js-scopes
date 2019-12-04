@@ -10,7 +10,7 @@ function render(person, list) {
   image.src = person.image;
 
   var heading = document.createElement("h3");
-  heading.textContent = person.name;
+  heading.textContent = person.nombre;
 
   //check if is a superhero or supervillain.
   var goodness = person.bando ? "Superhero" : "Villian";

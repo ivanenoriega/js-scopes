@@ -15,3 +15,9 @@ Una vez que tengamos la/s clase/s debemos mostrarlas en la página en las listas
 5.  Una vez finalizado, crear una branch, el nombre debe seguir el siguiente criterio: **nombre_del_superheroe**
 6.  Hacer los commits y subirlos al repositorio propio
 7.  Solicitar un pull request al repo original.
+
+
+### Segunda parte:
+
+1. Vamos a trabajar sobre la función render, pensando en lo qué hace, y separando nuestro  código para que quede más funcional, sin tantas repeticiones.
+2. Vamos a volver a ver nuestra clase superHumano, y vamos a refactorizar para reservar algunas propiedades de modo que sean privadas y no se puedan modificar.
